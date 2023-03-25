@@ -4,6 +4,6 @@
 
 This is a modified version of NPM Dark Theme, adapted to cover the entire site as well as improve a few other aspects of the theme.
 
-You can download the styling [here](https://userstyles.org/styles/169643/npm-dark-theme-complete)
+You can download the forked styling [here](https://raw.githubusercontent.com/thakyZ/npm-dark-theme-complete/master/style.user.css)
 
 Original Repo on GitLab: [https://gitlab.com/lukecfairchild/npm-dark-theme-complete](https://gitlab.com/lukecfairchild/npm-dark-theme-complete)
